@@ -1,0 +1,14 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\AppInvokerForTesting.exe.config
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\AppInvokerForTesting.exe
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\AppInvokerForTesting.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\CAAAETInfraStructure.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\log4net-await.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\bin\Debug\CAAAETInfraStructure.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\obj\Debug\AppInvokerForTesting.csprojResolveAssemblyReference.cache
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\obj\Debug\AppInvokerForTesting.MainForm.resources
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\obj\Debug\AppInvokerForTesting.Properties.Resources.resources
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\obj\Debug\AppInvokerForTesting.csproj.GenerateResource.Cache
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\obj\Debug\AppInvokerForTesting.exe
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\AppInvokerForTesting\obj\Debug\AppInvokerForTesting.pdb
