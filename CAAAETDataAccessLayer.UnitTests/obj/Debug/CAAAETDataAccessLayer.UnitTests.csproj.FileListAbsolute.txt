@@ -1,0 +1,5 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\bin\Debug\CAAAETDataAccessLayer.UnitTests.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\bin\Debug\CAAAETDataAccessLayer.UnitTests.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\obj\Debug\CAAAETDataAccessLayer.UnitTests.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\obj\Debug\CAAAETDataAccessLayer.UnitTests.pdb

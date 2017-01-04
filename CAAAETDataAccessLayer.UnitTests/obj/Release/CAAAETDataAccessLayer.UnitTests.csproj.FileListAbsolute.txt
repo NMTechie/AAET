@@ -1,0 +1,4 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\bin\Release\CAAAETDataAccessLayer.UnitTests.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\bin\Release\CAAAETDataAccessLayer.UnitTests.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\obj\Release\CAAAETDataAccessLayer.UnitTests.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer.UnitTests\obj\Release\CAAAETDataAccessLayer.UnitTests.pdb
