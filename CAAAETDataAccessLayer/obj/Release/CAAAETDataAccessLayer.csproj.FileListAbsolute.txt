@@ -1,0 +1,17 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\Menudata\UserAccessControl.xml
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\CAAAETDataAccessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\CAAAETDataAccessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\CAAAETInfraStructure.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\log4net-await.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\bin\Release\CAAAETInfraStructure.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\obj\Release\CAAAETDataAccessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\obj\Release\CAAAETDataAccessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\Menudata\UserAccessControl.xml
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\CAAAETDataAccessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\CAAAETDataAccessLayer.pdb
+C:\bin\Menudata\UserAccessControl.xml
+C:\bin\CAAAETDataAccessLayer.dll
+C:\bin\CAAAETDataAccessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDataAccessLayer\obj\Release\CAAAETDataAccessLayer.csprojResolveAssemblyReference.cache
