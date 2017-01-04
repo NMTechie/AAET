@@ -1,0 +1,14 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETDIResolver.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETDIResolver.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETBusinessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\SimpleInjector.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETDataAccessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETBusinessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\SimpleInjector.xml
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\CAAAETDataAccessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\obj\Debug\CAAAETDIResolver.csprojResolveAssemblyReference.cache
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\obj\Debug\CAAAETDIResolver.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\obj\Debug\CAAAETDIResolver.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETDIResolver\bin\Debug\Menudata\UserAccessControl.xml

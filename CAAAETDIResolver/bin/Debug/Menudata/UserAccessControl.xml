@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <role name="ADMIN">
+    <menu IsLeaf="false" MenuText="Menu 1">
+      <menu IsLeaf="true" MenuText="Menu 1 - 1" ActionName="Test" ControllerName="CAAAETDefault" Screen="TestScreen"></menu>
+      <menu IsLeaf="true" MenuText="Menu 1 - 2" ActionName="" ControllerName="" Screen=""></menu>
+      <menu IsLeaf="true" MenuText="Menu 1 - 2" ActionName="" ControllerName="" Screen=""></menu>
+    </menu>
+    <menu IsLeaf="false" MenuText="Menu 2">
+      <menu IsLeaf="true" MenuText="Menu 2 - 1" ActionName="" ControllerName="" Screen=""></menu>
+    </menu>
+    <menu IsLeaf="false" MenuText="Menu 3">
+      <menu IsLeaf="true" MenuText="Menu 3 - 1" ActionName="" ControllerName="" Screen=""></menu>
+      <menu IsLeaf="false" MenuText="Menu 3 - 2">
+        <menu IsLeaf="true" MenuText="Menu 3 - 2 - 1" ActionName="" ControllerName="" Screen=""></menu>
+        <menu IsLeaf="true" MenuText="Menu 3 - 2 - 2" ActionName="" ControllerName="" Screen=""></menu>
+      </menu>
+    </menu>
+    <menu IsLeaf="false" MenuText="Menu 4">
+      <menu IsLeaf="true" MenuText="Menu 4 - 1" ActionName="" ControllerName="" Screen=""></menu>
+      <menu IsLeaf="true" MenuText="Menu 4 - 2" ActionName="" ControllerName="" Screen=""></menu>
+    </menu>
+  </role>
+  <role name="STAFF">
+    <menu IsLeaf="true" MenuText=""/>
+  </role>
+</root>
