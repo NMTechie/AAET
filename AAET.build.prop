@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectsToBeBuilded">
+    <VSSolutionToBuild Include="$(MSBuildProjectDirectory)\CA-AAET-Integration.sln"/>
+  </ItemGroup>
+
+  <PropertyGroup Label="Generic">
+    <ArtefactsLocation>$(MSBuildProjectDirectory)\Artefacts</ArtefactsLocation>
+  </PropertyGroup>
+  <PropertyGroup Label="AAETUIProjectToPackage">
+    <UIProject>$(MSBuildProjectDirectory)\CAAAETConfigurationUI\CAAAETConfigurationUI.csproj</UIProject>
+    <UIProjectPublishPath>$(MSBuildProjectDirectory)\Artefacts\UI</UIProjectPublishPath>    
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildProjectDirectory)\AAET.build.prop"/>
+  <Target Name="BuildProcesses" DependsOnTargets="Clean;Rebuild;RefreshArtefactLocation;Package"/>
+  <Target Name="Clean">    
+    <Message Text="Cleaning of the projects started"/>    
+    <MSBuild Projects="@(VSSolutionToBuild)" Targets="Clean"/>
+    <Message Text ="Cleaning of processes finished at $([System.DateTime]::Now)"/>
+  </Target>
+  <Target Name="Rebuild">
+    <Message Text="Building of the projects started"/>
+    <MSBuild Projects="@(VSSolutionToBuild)" Targets="ReBuild"/>
+    <Message Text ="Build process finished at $([System.DateTime]::Now)"/>
+  </Target>
+  <Target Name="RefreshArtefactLocation">
+    <Message Text="Refresh started at $([System.DateTime]::Now)"/>    
+    <RemoveDir Directories="$(ArtefactsLocation)" Condition="Exists('$(ArtefactsLocation)')"/>
+    <MakeDir Directories="$(ArtefactsLocation)" Condition="!Exists('$(ArtefactsLocation)')"/>    
+    <Message Text ="Refresh end at $([System.DateTime]::Now)"/>
+  </Target>
+  <Target Name="Package">
+    <Message Text="Packaging of UI started at $([System.DateTime]::Now)"/>
+    <MSBuild Projects="$(UIProject)" Targets="ResolveReferences;_CopyWebApplication" Properties="WebProjectOutputDir=$(UIProjectPublishPath);OutDir=$(UIProjectBinPath)\bin"/>
+    <Message Text="Packaging of UI ended at $([System.DateTime]::Now)"/>
+  </Target>
+</Project>
