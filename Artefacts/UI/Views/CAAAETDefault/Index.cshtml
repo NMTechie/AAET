@@ -1,0 +1,21 @@
+﻿@using CAAAETCommon.DataTransferObjects;
+
+@model List<MenuItem>
+
+
+@{
+    ViewBag.Title = "Welcome";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Welcome to CAAET configuration</h2>
+@*<input type="submit" id="showData" value="Show Data" formaction="@Url.Action("ShowResult","CAAAETDefault")" />
+    This "formaction" will not work with Ajax form , only work with Html form*@
+@*
+This approach also work but not elegant in terms of implementation
+<input type="submit" id="showData" value="Show Data" onclick="ChangeFormAttribute('@Url.Action("ShowResult","CAAAETDefault")')" />*@
+
+<input type="submit" id="showData" value="Show Data" onclick="ButtonPostActionTo(this,'@Url.Action("ShowResult","CAAAETDefault")')"/>
+
+
+

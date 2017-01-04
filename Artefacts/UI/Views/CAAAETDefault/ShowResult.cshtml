@@ -1,0 +1,41 @@
+﻿<head>
+    <title></title>
+    <script src="~/Scripts/Views/ShowResult.js"></script>
+
+</head>
+<body>
+    <div>
+        This the start page
+    </div>
+    <div>
+        <table>
+            <tr>
+                <td>
+                    Message Id: <input type="text" id="txtMessageId" />
+                </td>
+                <td>
+                    Student Name: <input type="text" id="txtStudentName" />
+                </td>
+                <td>
+                    Message Body: <input type="text" id="txtMessageBody" />
+                </td>
+                <td>
+                    Message ReceiveTime: <input type="text" id="txtMessageReceiveTime" />
+                </td>
+                <td>
+                    <input type="button" id="btnSearch" value="Search" onclick="btnSearch_Click()" />
+                </td>
+                <td>
+                    <input type="button" id="btnClearSearch" value="Clear Search" onclick="btnClearSearch_Click()" />
+                </td>
+            </tr>
+        </table>
+        <table id="resultSearchGrid">
+            <thead>
+                <tr></tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</body>
+
