@@ -1,0 +1,16 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Release\Menudata\UserAccessControl.xml
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Release\CAAAETBusinessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Release\CAAAETBusinessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Release\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Release\CAAAETDataAccessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Release\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Release\CAAAETDataAccessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\obj\Release\CAAAETBusinessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\obj\Release\CAAAETBusinessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\Menudata\UserAccessControl.xml
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\CAAAETBusinessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\CAAAETBusinessLayer.pdb
+C:\bin\Menudata\UserAccessControl.xml
+C:\bin\CAAAETBusinessLayer.dll
+C:\bin\CAAAETBusinessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\obj\Release\CAAAETBusinessLayer.csprojResolveAssemblyReference.cache

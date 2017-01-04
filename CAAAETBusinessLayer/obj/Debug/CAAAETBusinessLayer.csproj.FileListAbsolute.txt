@@ -1,0 +1,12 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\Menudata\UserAccessControl.xml
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\CAAAETBusinessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\CAAAETBusinessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\CAAAETDataAccessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\CAAAETDataAccessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\obj\Debug\CAAAETBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\obj\Debug\CAAAETBusinessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\obj\Debug\CAAAETBusinessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\SimpleInjector.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETBusinessLayer\bin\Debug\SimpleInjector.xml
