@@ -1,0 +1,9 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\bin\Release\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\bin\Release\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\obj\Release\CAAAETCommon.csprojResolveAssemblyReference.cache
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\obj\Release\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\obj\Release\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\Artefacts\UI\bin\CAAAETCommon.pdb
+C:\bin\CAAAETCommon.dll
+C:\bin\CAAAETCommon.pdb

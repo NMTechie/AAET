@@ -1,0 +1,5 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\bin\Debug\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\bin\Debug\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\obj\Debug\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\obj\Debug\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETCommon\obj\Debug\CAAAETCommon.csprojResolveAssemblyReference.cache
