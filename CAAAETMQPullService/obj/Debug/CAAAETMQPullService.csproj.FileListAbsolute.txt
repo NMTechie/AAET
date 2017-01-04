@@ -1,0 +1,12 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\CAAAETMQPullService.exe.config
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\CAAAETMQPullService.exe
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\CAAAETMQPullService.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\CAAAETInfraStructure.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\Topshelf.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\log4net-await.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\bin\Debug\CAAAETInfraStructure.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\obj\Debug\CAAAETMQPullService.csprojResolveAssemblyReference.cache
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\obj\Debug\CAAAETMQPullService.exe
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETMQPullService\obj\Debug\CAAAETMQPullService.pdb
