@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<head>
+    <title></title>
+    <script>
+        $(document).ready(function () {
+            $('#resultSearchGrid').DataTable(
+                {
+                    "serverSide": true,                    
+                    "deferRender": true,
+                    "lengthMenu": [[10, 20, 50, 100, -1], [10, 20, 50, 100, "All"]],
+                    "language": {
+                        "info": "Showing page _PAGE_ of _PAGES_",
+                        "infoEmpty": "No records found for this filter criteria",
+                        "infoFiltered": ""
+                    },
+                    "order": [[0, 'asc']],
+                    "rowId": 'MessageId',
+                    "ajax": {
+                        "url": 'ConfigurationUIGridBehaviour',
+                        "dataSrc": 'ResultSet'
+                    },
+                    "columnDefs": [
+                                { title: 'Message Id', targets: 0, data: 'MessageId', name: "MessageId" },
+                                { title: 'Student Name', targets: 1, data: 'StudentName', name: "StudentName" },
+                                { title: 'Message Body', targets: 2, data: 'MessageBody', name: "MessageBody" },
+                                { title: 'Message ReceiveTime', targets: 3, data: 'MessageReceiveTime', name: "MessageReceiveTime" },
+                                { title: 'Message Body', targets: 4, data: 'MessageBody', name: "MessageBody" }
+                    ]
+                }
+                );
+        });
+    </script>
+</head>
+<body>
+    <div>
+        This the start page
+    </div>
+    <div>
+        <table id="resultSearchGrid">
+            <thead>
+                <tr>
+                                    
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+    </div>
+</body>
+

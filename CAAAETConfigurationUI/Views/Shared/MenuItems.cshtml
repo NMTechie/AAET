@@ -1,0 +1,20 @@
+﻿@using CAAAETCommon.DataTransferObjects
+
+@model List<MenuItem>
+
+<ul class="dropdown-menu">
+        @foreach (MenuItem item in Model)
+        {
+            if (!item.IsSubMenu)
+            {
+                <li class="dropdown">@Ajax.ActionLink(item.MenuText,item.ActionName,item.ControllerName,new AjaxOptions(){HttpMethod = "POST",UpdateTargetId = "theForm",InsertionMode = InsertionMode.Replace})</li>
+            }
+            else
+            {
+            <li class="dropdown-submenu" data-toggle="dropdown">
+                <a href="#">@item.MenuText</a>
+                @{Html.RenderPartial("MenuItems", item.MenuList);}
+            </li>
+            }
+        }
+</ul>
