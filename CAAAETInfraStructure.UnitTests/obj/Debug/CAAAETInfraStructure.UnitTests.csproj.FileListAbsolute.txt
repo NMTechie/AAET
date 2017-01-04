@@ -1,0 +1,14 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\Menudata\UserAccessControl.xml
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETInfraStructure.UnitTests.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETInfraStructure.UnitTests.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETCommon.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETDataAccessLayer.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETInfraStructure.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\log4net-await.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETCommon.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETDataAccessLayer.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\bin\Debug\CAAAETInfraStructure.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\obj\Debug\CAAAETInfraStructure.UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\obj\Debug\CAAAETInfraStructure.UnitTests.dll
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\CAAAETInfraStructure.UnitTests\obj\Debug\CAAAETInfraStructure.UnitTests.pdb
