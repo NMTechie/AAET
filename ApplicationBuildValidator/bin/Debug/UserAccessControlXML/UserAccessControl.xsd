@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="role">
+          <xs:complexType mixed="true">
+            <xs:sequence minOccurs="0">
+              <xs:element maxOccurs="unbounded" name="menu">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="menu">
+                      <xs:complexType>
+                        <xs:sequence minOccurs="0">
+                          <xs:element maxOccurs="unbounded" name="menu">
+                            <xs:complexType>
+                              <xs:attribute name="IsLeaf" type="xs:boolean" use="required" />
+                              <xs:attribute name="MenuText" type="xs:string" use="required" />
+                              <xs:attribute name="ActionName" type="xs:string" use="required" />
+                              <xs:attribute name="ControllerName" type="xs:string" use="required" />
+                              <xs:attribute name="Screen" type="xs:string" use="required" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="IsLeaf" type="xs:boolean" use="required" />
+                        <xs:attribute name="MenuText" type="xs:string" use="required" />
+                        <xs:attribute name="ActionName" type="xs:string" use="optional" />
+                        <xs:attribute name="ControllerName" type="xs:string" use="optional" />
+                        <xs:attribute name="Screen" type="xs:string" use="optional" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="IsLeaf" type="xs:boolean" use="required" />
+                  <xs:attribute name="MenuText" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="name" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

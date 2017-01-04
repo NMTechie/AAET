@@ -1,0 +1,6 @@
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\ApplicationBuildValidator\bin\Release\UserAccessControlXML\UserAccessControl.xsd
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\ApplicationBuildValidator\bin\Release\ApplicationBuildValidator.exe.config
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\ApplicationBuildValidator\bin\Release\ApplicationBuildValidator.exe
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\ApplicationBuildValidator\bin\Release\ApplicationBuildValidator.pdb
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\ApplicationBuildValidator\obj\Release\ApplicationBuildValidator.exe
+C:\Projects\ISP1071-AAET\Code-Base\CA-AAET-Integration\ApplicationBuildValidator\obj\Release\ApplicationBuildValidator.pdb
